@@ -1,0 +1,13 @@
+.textElement {
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 2%;
+    opacity: 0.8;
+    background-color: rgb(206, 206, 206);
+    max-width: 60%;
+    margin: auto;
+    padding-top: 0.2%;
+    padding-bottom: 0.2%;
+    border-radius: 50px;
+
+}
